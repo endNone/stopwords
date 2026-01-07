@@ -1,6 +1,13 @@
-# stopwords
-中英文停用词表(3076,包含部分特殊符号)
-该词表汇集了多个权威来源的停用词，包括哈工大停用词表、百度停用词表、四川大学机器智能实验室停用词库，以及CSDN和GitHub社区的各类资源，精心筛选和整合了中英文的常见但意义较少的词汇和符号，旨在从文本数据中移除噪音，提升数据处理的质量和效率，适用于各类文本挖掘、情感分析、关键词提取等场景。 
+<p align="left">
+    <a href="README_CN.md">中文</a>&nbsp ｜ &nbspEnglish
+</p>
+<br>
+
+# Stopwords
+
+Chinese and English Stopwords List (3,076 words, including some special characters)
+
+This stopwords list aggregates resources from multiple authoritative sources, including the Harbin Institute of Technology stopwords list, Baidu stopwords list, Sichuan University Machine Intelligence Laboratory stopwords repository, as well as various resources from the CSDN and GitHub communities. It has been carefully curated and integrated to include common but semantically weak words and symbols in both Chinese and English, aimed at removing noise from text data to improve data processing quality and efficiency. This list is suitable for various text mining, sentiment analysis, keyword extraction and other scenarios. 
 ## Star History
 
 ![Star History Chart](https://api.star-history.com/svg?repos=endNone/stopwords&type=Date)
